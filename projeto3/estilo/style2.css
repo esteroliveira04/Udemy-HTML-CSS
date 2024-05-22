@@ -1,0 +1,63 @@
+@charset "UTF-8";
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-color: cornflowerblue;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+img{
+    height: 18px;
+    margin-left: 20px;
+}
+
+.lista-de-links{
+    display: flex;
+    list-style: none;
+}
+
+.lista-de-links a{
+    color: blanchedalmond;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.lista-de-links a:hover{
+    color: black;
+}
+
+main{
+    display: flex;
+    height: calc(100vh - 80px);
+    background-image: url('../imagens/fundo.png');
+    justify-content: start;
+    align-items: center;
+}
+
+.textos{
+    margin: 100px;
+}
+
+.textos h1{
+    color: cornflowerblue;
+    font-size: 50px;
+}
+
+.textos h3{
+    color: cornsilk;
+    margin-bottom: 50px;
+}
+
+button{
+    height: 50px;
+    width: 120px;
+    border-radius: 5px;
+    color: cornflowerblue;
+}
