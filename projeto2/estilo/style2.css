@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+body{
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+}
+
+header{
+    background-color: #3b3b3b;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+li{
+    display: inline-block;
+}
+
+a{
+    color: blanchedalmond;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: coral;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+footer{
+    background-color: #3b3b3b;
+    padding: 10px;
+    display: flex;
+    justify-content: end;
+}
+
+p{
+    color: blanchedalmond;
+    margin-right: 20px;
+}
