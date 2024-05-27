@@ -1,0 +1,133 @@
+@charset "UTF-8";
+
+:root{
+    --cor1: rgb(244,227,215,100);
+    --cor2: rgb(239, 215,197,100);
+    --cor3: rgb(66, 35, 22, 100);
+}
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: var(--cor2);
+    
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 90px;
+    background-color: var(--cor3);
+}
+
+header h2{
+    color: var(--cor2);
+    margin-left: 20px;
+}
+
+header ul{
+    display: flex;
+    margin-right: 20px;
+    list-style: none;
+}
+
+header a{
+    margin-right: 5px;
+    color:var(--cor2);
+    text-decoration: none;
+}
+
+header a:hover{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+main{
+    display: flex;
+    flex-direction: column;
+}
+
+main img{
+    width: 100vw;
+}
+
+main h2{
+    margin-left: 50px;
+    color: var(--cor3);
+}
+
+.containers{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: var(--cor3);
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.container h2{
+    color: var(--cor1);
+}
+
+.container img{
+    width: 150px;
+}
+
+.contato{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contato form{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+
+.contato input{
+    background-color: var(--cor3);
+    color: var(--cor2);
+    font-size: 15px;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 5px;
+    width: 600px;
+}
+
+.contato textarea{
+    background-color: var(--cor3);
+    color: var(--cor2);
+    border-radius: 8px;
+}
+
+.contato button{
+    background-color: var(--cor3);
+    color: var(--cor2);
+    font-size: 18px;
+    border-radius: 8px;
+    width: 200px;
+}
+
+footer{
+    display: flex;
+    flex-direction: column;
+    background-color: var(--cor3);
+    margin-top: 40px;
+}
+
+footer p{
+    padding-left: 10px;
+    color: var(--cor1);
+}
