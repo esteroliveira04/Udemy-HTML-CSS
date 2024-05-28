@@ -24,4 +24,4 @@
 <li><a href="https://esteroliveira04.github.io/Udemy-HTML-CSS/projeto9/index.html"> Projeto 9 - Animações simples</a></li>
 </ul>
 
-<img src="../Udemy-HTML-CSS/certificado-html-css-udemy.jpg">
+![Certificado do curso.](https://udemy-certificate.s3.amazonaws.com/image/UC-daa10c19-afef-4d37-985b-6fca82ce909f.jpg)
