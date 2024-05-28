@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    animation: body 5s infinite linear;
+}
+
+@keyframes body{
+    0%{background: aliceblue;}
+    25%{background: plum;}
+    50%{background:purple;}
+    75%{background: plum;}
+    100%{background: aliceblue;}
+}
+
+h1{
+    color:black;
+    animation: font-size 5s infinite linear;
+}
+
+@keyframes font-size {
+    from{font-size: 100%;}
+    to{font-size: 200%;}
+}
