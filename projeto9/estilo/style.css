@@ -6,6 +6,7 @@ body{
     align-items: center;
     height: 90vh;
     animation: body 5s infinite linear;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 @keyframes body{

@@ -12,11 +12,14 @@
 <li><a href="https://esteroliveira04.github.io/Udemy-HTML-CSS/projeto4/index.html"> Projeto 4 - Login Page</a></li>
 
 <li><a href="https://esteroliveira04.github.io/Udemy-HTML-CSS/projeto4/login2.html">Minha versão - Login Page Melhorada</a></li>
-</ul>
 
 <li><a href="https://esteroliveira04.github.io/Udemy-HTML-CSS/projeto5/index.html">Projeto 5 - Coffee Club</a></li>
+
+<li><a href="https://esteroliveira04.github.io/Udemy-HTML-CSS/projeto6/index.html">Projeto 6 - Pokedex responsivo</a></li>
+
+<li><a href="https://esteroliveira04.github.io/Udemy-HTML-CSS/projeto7/index.html">Projeto 7 - Item Shop responsivo</a></li>
+
+<li><a href="https://esteroliveira04.github.io/Udemy-HTML-CSS/projeto8/index.html">Projeto 8 - Formulário de contato</a></li>
+
+<li><a href="https://esteroliveira04.github.io/Udemy-HTML-CSS/projeto9/index.html"> Projeto 9 - Animações simples</a></li>
 </ul>
-
-https://esteroliveira04.github.io/Udemy-HTML-CSS/projeto6/index.html
-
-https://esteroliveira04.github.io/Udemy-HTML-CSS/projeto7/index.html
